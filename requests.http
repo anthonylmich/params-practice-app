@@ -1,0 +1,6 @@
+POST http://localhost:3000/phrase
+Content-Type: application/json
+
+{
+  "phrase": "It works"
+}
